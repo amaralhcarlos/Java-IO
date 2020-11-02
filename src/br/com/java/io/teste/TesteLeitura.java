@@ -17,8 +17,6 @@ public class TesteLeitura {
 		Reader isr = new InputStreamReader(fis);
 		BufferedReader br = new BufferedReader(isr);
 
-		String linha = br.readLine();
-
 		br.lines().forEach(line -> {
 			System.out.println(line);
 		});

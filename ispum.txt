@@ -1,0 +1,2 @@
+Teste de escrita em arquivo
+Criei uma nova linha
