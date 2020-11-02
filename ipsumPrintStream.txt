@@ -1,0 +1,3 @@
+Teste de escrita em arquivo
+
+Criada uma nova linha de novo
