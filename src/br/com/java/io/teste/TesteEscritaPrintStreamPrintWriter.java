@@ -10,7 +10,7 @@ import java.io.PrintStream;
 import java.io.PrintWriter;
 import java.io.Writer;
 
-public class TesteEscritaPrintWriter {
+public class TesteEscritaPrintStreamPrintWriter {
 
 	public static void main(String[] args) throws IOException {
 
