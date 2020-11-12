@@ -1,14 +1,8 @@
-package br.com.java.io.teste;
+package br.com.java.io.test;
 
-import java.io.BufferedWriter;
-import java.io.FileOutputStream;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.io.OutputStream;
-import java.io.OutputStreamWriter;
 import java.io.PrintStream;
 import java.io.PrintWriter;
-import java.io.Writer;
 
 public class TesteEscritaPrintStreamPrintWriter {
 

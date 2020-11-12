@@ -1,9 +1,7 @@
-package br.com.java.io.teste;
+package br.com.java.io.test;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
 

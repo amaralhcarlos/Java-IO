@@ -1,4 +1,4 @@
-package br.com.java.io.teste;
+package br.com.java.io.test;
 
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
